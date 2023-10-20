@@ -1,0 +1,4 @@
+com\kgisl\springcrudsample\Model\BookEntityListener.class
+com\kgisl\springcrudsample\Service\BookServiceImp.class
+com\kgisl\springcrudsample\Service\BookService.class
+com\kgisl\springcrudsample\Model\Book.class
